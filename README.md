@@ -9,3 +9,5 @@ Backend api with Graphql and mongoDB (Local database)
 
 Find author and book. Relation in mongoDB
 
+
+For use GraphiQl go to url /graphql
